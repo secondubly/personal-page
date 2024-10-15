@@ -55,3 +55,22 @@ enableEmoji = true
 [[params.socialIcons]]
 name = "github"
 url = "https://github.com/secondubly"
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "production"
+
+# URL specifies the Go Cloud Development Kit URL to deploy to. Examples:
+URL = "s3://tmass.ac?region=us-west-1"
+
+# Google Cloud Storage -- see https://gocloud.dev/howto/blob/#gcs
+#URL = "gs://<Bucket Name>"
+
+# Amazon Web Services S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+#URL = "s3://<Bucket Name>?region=<AWS region>"
+
+# Microsoft Azure Blob Storage; see https://gocloud.dev/howto/blob/#azure
+#URL = "azblob://$web"
