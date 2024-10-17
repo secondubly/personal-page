@@ -1,3 +1,54 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'hugo-blog-awesome'
+enableEmoji = true
+
+
+# Social Icons
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/secondubly"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com"
+
+# params
+[params]
+  goToTop = true # enables go to top on blog posts
+
+
+
+
+[languages]
+  [languages.en]
+    [languages.en.menu]
+    [[Languages.en.menu.main]]
+        # The page reference (pageRef) is useful for menu highlighting
+        # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+        pageRef="/"
+        name = 'Home'
+        url = '/'
+        weight = 10
+    [[Languages.en.menu.main]]
+        pageRef="about"
+        name = 'About'
+        url = '/about/'
+        weight = 20
+    [[Languages.en.menu.main]]
+        pageRef="portfolio"
+        name = 'Portfolio'
+        url = '/portfolio/'
+        weight = 30
+    # [[Languages.en.menu.main]]
+    #     pageRef="posts"
+    #     name = 'Posts'
+    #     url = '/posts/'
+    #     weight = 30
+    [languages.en.params.author]
+      avatar = 'avatar.png'
+      name = 'Tarik Massac'
+      intro = 'this is a test'
+    [languages.en.params]
+      defaultColor = 'auto'
