@@ -86,3 +86,7 @@ theme        = "hello-friend-ng"
 [[params.social]]
   name = "email"
   url  = "mailto:tmassac@proton.me"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
