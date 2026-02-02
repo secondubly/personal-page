@@ -44,7 +44,7 @@ theme        = "hello-friend-ng"
     readOtherPosts = "Read other posts"
 
   [languages.en.params]
-    subtitle  = "software engineer"
+    subtitle  = "full-stack software engineer"
 
     [languages.en.params.logo]
       logoText = "cd ~/dev"
