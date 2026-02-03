@@ -74,9 +74,11 @@ theme        = "hello-friend-ng"
 [pagination]
   pagerSize = 10
 
+[params.author]
+  name = "Tarik Massac"
+
 [params.footer]
   trademark = 2026
-  copyright = true
   author = true
   bottomText = [
     "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
