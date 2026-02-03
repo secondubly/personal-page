@@ -75,7 +75,12 @@ theme        = "hello-friend-ng"
   pagerSize = 10
 
 [params.footer]
-  trademark = 2025
+  trademark = 2026
+  copyright = true
+  author = true
+  bottomText = [
+    "Powered by <a href=\"http://gohugo.io\">Hugo</a>"
+  ]
 
 [[params.social]]
   name = "linkedin"
