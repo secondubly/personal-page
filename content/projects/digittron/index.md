@@ -6,7 +6,7 @@ tags: ["twitch"]
 customCss: "projects.css"
 ShowRssButtonInSectionTermList: false
 cover:
-    image: "temp_header.png"
+    image: "/projects/digittron/temp_header.png"
     alt: "stream starting soon"
     caption: "2026"
     relative: true
