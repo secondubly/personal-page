@@ -1,0 +1,5 @@
+.technology div {
+    border-radius: var(--radius);
+    background: var(--code-bg);
+    border: 1px solid var(--border);
+}
