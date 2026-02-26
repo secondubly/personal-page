@@ -1,32 +1,57 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cd ~/dev</title>
+    <title>tarik massac</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on cd ~/dev</description>
+    <description>Recent content on tarik massac</description>
     <image>
-      <title>cd ~/dev</title>
+      <title>tarik massac</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
       <link>http://localhost:1313/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.152.1</generator>
     <language>en</language>
     <copyright>2026 tarik massac</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 16:46:34 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Wed, 22 Oct 2025 16:46:34 -0700</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;digittron&#34;&gt;digittron&lt;/h2&gt;</description>
+      <title>digittron</title>
+      <link>http://localhost:1313/projects/digittron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/digittron/</guid>
+      <description>click to view project details</description>
     </item>
     <item>
-      <title>Rich Content and Shortcodes</title>
-      <link>http://localhost:1313/blog/first/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/first/</guid>
-      <description>A brief description of Hugo Shortcodes</description>
+      <title>resumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;h1 id=&#34;tarik-massac&#34;&gt;Tarik Massac&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;email: &lt;a href=&#34;mailto:hello@tmass.ac&#34;&gt;hello@tmass.ac&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github: &lt;a href=&#34;https://github.com/secondubly&#34;&gt;github&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;software-engineer-ii&#34;&gt;Software Engineer II&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.americanexpress.com&#34;&gt;American Express&lt;/a&gt;&lt;br&gt;
+&lt;em&gt;April 2023 — June 2025&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Led development of deceased account transfer feature processing 500+ account transitions monthly,
+preserving customer history and reducing account closure rates by 30%.&lt;/li&gt;
+&lt;li&gt;Led development and release of NFT Passport product enabling users to mint NFTs based upon travel
+behavior to drive digital engagement and increase travel spending.&lt;/li&gt;
+&lt;li&gt;Led team handling production bug triage which affected 20% of new customer signups in European
+markets for new products.&lt;/li&gt;
+&lt;li&gt;Built Splunk monitoring dashboard used by 15+ engineers for API health tracking, reducing mean time
+to detection (MTTD) and enabling proactive alerting that prevented 10+ production incidents.&lt;/li&gt;
+&lt;li&gt;Maintained Customer 360 Java APIs processing 50M+ daily requests with 99.95% uptime, supporting
+global customer insights across 20+ markets and 100M+ customer records.
+• Mentored 2 junior engineers through onboarding and code reviews, reducing ramp-up time from 3
+months to 6 weeks and improving team velocity.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-engineer&#34;&gt;Software Engineer&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://bandcamp.com&#34;&gt;Bandcamp&lt;/a&gt;&lt;br&gt;
+April 2018 — April 2023&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

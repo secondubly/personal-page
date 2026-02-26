@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Twitch on tarik massac</title>
+    <link>http://localhost:1313/tags/twitch/</link>
+    <description>Recent content in Twitch on tarik massac</description>
+    <image>
+      <title>tarik massac</title>
+      <url>http://localhost:1313/images/papermod-cover.png</url>
+      <link>http://localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.152.1</generator>
+    <language>en</language>
+    <copyright>2026 tarik massac</copyright>
+    <atom:link href="http://localhost:1313/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>digittron</title>
+      <link>http://localhost:1313/projects/digittron/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/digittron/</guid>
+      <description>click to view project details</description>
+    </item>
+  </channel>
+</rss>

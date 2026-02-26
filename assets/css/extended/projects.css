@@ -1,0 +1,13 @@
+.technology {
+    display: flex;
+    gap: 1em;
+}
+.technology div {
+    font-size: 14px;
+    line-height: 34px;
+    padding: 0 0.5em;
+}
+
+.post-tags a {
+    text-transform: lowercase;
+}
