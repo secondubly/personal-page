@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>cd ~/dev</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on cd ~/dev</description>
+    <title>Shortcodes on cd ~/dev</title>
+    <link>http://localhost:1313/tags/shortcodes/</link>
+    <description>Recent content in Shortcodes on cd ~/dev</description>
     <image>
       <title>cd ~/dev</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
@@ -12,15 +12,8 @@
     <generator>Hugo -- 0.152.1</generator>
     <language>en</language>
     <copyright>2026 tarik massac</copyright>
-    <lastBuildDate>Wed, 22 Oct 2025 16:46:34 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
-      <pubDate>Wed, 22 Oct 2025 16:46:34 -0700</pubDate>
-      <guid>http://localhost:1313/projects/</guid>
-      <description>&lt;h2 id=&#34;digittron&#34;&gt;digittron&lt;/h2&gt;</description>
-    </item>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rich Content and Shortcodes</title>
       <link>http://localhost:1313/blog/first/</link>

@@ -1,0 +1,5 @@
+# cd ~/dev
+- [Projects](http://localhost:1313/projects/)
+
+## Blogs
+- [Rich Content and Shortcodes](http://localhost:1313/blog/first/)
