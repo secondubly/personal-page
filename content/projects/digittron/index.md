@@ -1,6 +1,7 @@
 ---
 title: "digittron"
 summary: "click to view project details"
+description: "a web-based chat bot for streaming"
 ShowReadingTime: false
 tags: ["twitch"]
 customCss: "projects.css"
