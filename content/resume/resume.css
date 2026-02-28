@@ -1,4 +1,8 @@
-h1.post-title {
+.page-header {
+    display: none;
+}
+
+.post-content a.anchor {
     display: none;
 }
 

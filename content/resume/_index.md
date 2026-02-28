@@ -3,6 +3,7 @@ title = "resumé"
 ShowRssButtonInSectionTermList = false
 showReadingTime = false
 customCss = "resume.css"
+body_class="no-h1"
 +++
 
 # Tarik Massac

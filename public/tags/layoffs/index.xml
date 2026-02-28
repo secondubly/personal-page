@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>blog on tarik massac</title>
-    <link>http://localhost:1313/blog/</link>
-    <description>Recent content in blog on tarik massac</description>
+    <title>Layoffs on tarik massac</title>
+    <link>http://localhost:1313/tags/layoffs/</link>
+    <description>Recent content in Layoffs on tarik massac</description>
     <image>
       <title>tarik massac</title>
       <url>http://localhost:1313/images/papermod-cover.png</url>
@@ -13,7 +13,7 @@
     <language>en</language>
     <copyright>2026 tarik massac</copyright>
     <lastBuildDate>Sat, 28 Feb 2026 09:34:58 -0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/layoffs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>layoffs, motivation, self-worth, and renewed purpose</title>
       <link>http://localhost:1313/blog/2026/layoffs-motivation-self-worth-renewed-purpose/</link>

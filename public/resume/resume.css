@@ -1,0 +1,11 @@
+.page-header {
+    display: none;
+}
+
+.post-content a.anchor {
+    display: none;
+}
+
+#tarik-massac a, #tarik-massac a:hover {
+    display: none;
+}
