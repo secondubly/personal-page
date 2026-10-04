@@ -1,5 +1,5 @@
 +++ 
-date = 2026-02-28T09:34:58-08:00
+date = 2026-10-04T12:13:16-04:00
 title = "On recovery, mental health, and the job application process"
 description = "a mental reset"
 slug = "2026/taking-a-break"
