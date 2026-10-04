@@ -15,9 +15,9 @@ This website contains (and never will contain) no AI, ads, tracking, no affiliat
 
 ## current obsessions
 ---
-#### *Last Updated: February 26, 2026*
+#### *Last Updated: October 4, 2026*
 
-* Looking for work!
+* ~~Looking for work!~~ (job hunt paused, will be back in 2027!)
 * Working on [digittron](/projects/digittron)
 * Playing **A LOT** of [Deadlock](https://store.steampowered.com/app/1422450/Deadlock/)
 
